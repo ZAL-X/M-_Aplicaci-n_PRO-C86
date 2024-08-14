@@ -1,1 +1,1 @@
-# M-_Aplicaci-n_PRO-C86
+Proyecto reciclado de la Aplicacion estelar 89, por eso no le cambie los nombres internos de las paginas :>
